@@ -1,0 +1,41 @@
+# Arquivos de dados gerados pelo sistema
+dados_producao.json
+relatorio_final.txt
+relatorio_final.json
+producao.log
+
+# Cache e arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Ambientes virtuais
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*\~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testes (caso você crie a pasta depois)
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
